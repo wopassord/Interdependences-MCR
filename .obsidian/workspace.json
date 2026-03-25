@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "51b6faf45ee11fa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7202c925b369697f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c5dcaa7ac0e983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "6fbfa041739ef743",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4e6bf30608f64aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a038f4e94fb8da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c71a7abf071ebd54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "58e97508260d89e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "bb708efa79c74e84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ef802e439762697a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75271c77f600cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b334333a46c66b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "StartEnvironment.cs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de StartEnvironment.cs"
+            }
+          },
+          {
+            "id": "76f120097080fcc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "StartEnvironment.cs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de StartEnvironment.cs"
+            }
+          },
+          {
+            "id": "c13732bc8367aa6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6b015dad61fa9a31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "49ef4b7def584a73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "StartEnvironment.cs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de StartEnvironment.cs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c71a7abf071ebd54",
+  "lastOpenFiles": [
+    "Interdependences/Codes/tts.cs.md",
+    "Interdependences/Codes/UdpClient.cs.md",
+    "Interdependences/Codes/UnityAnimationEngine.cs.md",
+    "Interdependences/Codes/TorsoEngine.cs.md",
+    "Interdependences/Codes/StartEnvironment.cs.md",
+    "Interdependences/Codes/ReactiveBehavior.cs.md",
+    "Interdependences/Codes/GestureEditor.cs.md",
+    "Interdependences/Codes/HandShapeEditor.cs.md",
+    "Interdependences/Codes/GestureEngine.cs.md",
+    "Interdependences/Codes/FaceEngine.cs.md",
+    "Interdependences/Codes/bml_scheduler_behavior.cs.md",
+    "Interdependences/Codes/cerevoice_eng.cs.md",
+    "Interdependences/Codes/Character.cs.md",
+    "Interdependences/Codes/BML.cs.md",
+    "Interdependences/Interdependences Index.md",
+    "Interdependences/Template analyse.md",
+    "Interdependences/Codes",
+    "Interdependences",
+    "StartEnvironment.cs.md",
+    "Index.md",
+    "Character.cs.md",
+    "cerevoice_eng.cs.md",
+    "bml_scheduler_behavior.cs.md",
+    "UnityAnimationEngine.cs.md",
+    "ReactiveBehavior.cs.md",
+    "Reactive.md"
+  ]
+}
