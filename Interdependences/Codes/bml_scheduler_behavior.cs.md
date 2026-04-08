@@ -30,7 +30,6 @@ Time.time: ✅[UnityEngine](UnityEngine)
 **Clase BmlSchedulerBehaviour**: instancia de objeto **Scheduler** de BML.cs
 sched_ = new **Scheduler**(Time.time, "end", "speech", 0.0, delegate (string msg) [BML.cs](BML.cs)
 #### Librerías genéricas
-static System.Random random_ = new System.Random(); [[Random.cs]]
 
 ### AddComponent
 
@@ -61,47 +60,47 @@ Namespace VirtualAgent:
 - FaceEngine [[FaceEngine.cs]]
 Namespace Bml:
 - Event [BML.cs](BML.cs)
-- SynchroSolver [synchro_solver.cs](synchro_solver.cs)
+- SynchroSolver [synchro_solver.cs](synchro_solver.cs.md)
 
 Signal **Face**:
 Namespace VirtualAgent:
-- ActionUnit [LoadData.cs](LoadData.cs)
+- ActionUnit [LoadData.cs](LoadData.cs.md)
 - FaceEngine [[FaceEngine.cs]]
 Namespace Bml:
 - Event [BML.cs](BML.cs)
-- SynchroSolver [synchro_solver.cs](synchro_solver.cs)
+- SynchroSolver [synchro_solver.cs](synchro_solver.cs.md)
 
 Signal **Head**:
 Namespace VirtualAgent:
 - FaceEngine [[FaceEngine.cs]]
-- HeadShape [LoadData.cs](LoadData.cs)
+- HeadShape [LoadData.cs](LoadData.cs.md)
 Namespace Bml:
 - Event [BML.cs](BML.cs)
-- SynchroSolver [synchro_solver.cs](synchro_solver.cs)
+- SynchroSolver [synchro_solver.cs](synchro_solver.cs.md)
 
 Signal **Gesture**:
 Namespace VirtualAgent:
 - GestureEngine [GestureEngine.cs](GestureEngine.cs)
-- GestureDescription [LoadData.cs](LoadData.cs)
-- MocapDescription [LoadData.cs](LoadData.cs)
+- GestureDescription [LoadData.cs](LoadData.cs.md)
+- MocapDescription [LoadData.cs](LoadData.cs.md)
 Namespace Bml:
 - Event [BML.cs](BML.cs)
-- SynchroSolver [synchro_solver.cs](synchro_solver.cs)
+- SynchroSolver [synchro_solver.cs](synchro_solver.cs.md)
 
 Signal **Pointing**:
 Namespace VirtualAgent:
 - GestureEngine [GestureEngine.cs](GestureEngine.cs)
-- GestureDescription [LoadData.cs](LoadData.cs)
+- GestureDescription [LoadData.cs](LoadData.cs.md)
 Namespace Bml:
 - Event [BML.cs](BML.cs)
 
 Signal **Torso**:
 [TorsoEngine.cs](TorsoEngine.cs)
 Namespace VirtualAgent:
-- TorsoShape [LoadData.cs](LoadData.cs)
+- TorsoShape [LoadData.cs](LoadData.cs.md)
 Namespace Bml:
 - Event [BML.cs](BML.cs)
-- SynchroSolver [synchro_solver.cs](synchro_solver.cs)
+- SynchroSolver [synchro_solver.cs](synchro_solver.cs.md)
 
 Signal **Locomotion**:
 Namespace Bml:
@@ -110,11 +109,11 @@ Namespace Bml:
 Signal **Posture**:
 Namespace VirtualAgent:
 - GestureEngine [GestureEngine.cs](GestureEngine.cs)
-- PostureDescription [LoadData.cs](LoadData.cs)
-- MocapDescription [LoadData.cs](LoadData.cs)
+- PostureDescription [LoadData.cs](LoadData.cs.md)
+- MocapDescription [LoadData.cs](LoadData.cs.md)
 Namespace Bml:
 - Event [BML.cs](BML.cs)
-- SynchroSolver [synchro_solver.cs](synchro_solver.cs)
+- SynchroSolver [synchro_solver.cs](synchro_solver.cs.md)
 
 
 # Fase 4 (BehaviorRealizer?) ❌

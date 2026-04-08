@@ -1,0 +1,1 @@
+Cliente para conectarse al whiteboard (servidor UDP). Puro C# de vuelta, no es behavior realizer tampoco, es una herrameitna de comunicación únicamente

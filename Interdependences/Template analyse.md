@@ -41,9 +41,12 @@ Time.time
 
 ### Caso A 
 
+
 ### Caso B (Inyección por parámetro de función)
 
 ### Caso D
 
-
 # Fase 4 (BehaviorRealizer?)
+
+
+

@@ -58,7 +58,7 @@ public void SetAgent(VirtualAgent.Character a)
 private Quaternion GetUnityQuaternion(VirtualAgent.Quaternion rotation)
 {
 	return new Quaternion(rotation.x, rotation.y, rotation.z, rotation.w);
-} [LoadData.cs](LoadData.cs)
+} [LoadData.cs](LoadData.cs.md)
 
 
 ### Caso B (Declaración dentro de clase)
@@ -74,3 +74,7 @@ private void moveArm(List<VirtualAgent.HandKeyFrame> frames, double time, char s
 
 
 # Fase 4 (BehaviorRealizer?)
+
+Es C# puro? ❌
+
+No forma parte de behavior realizer

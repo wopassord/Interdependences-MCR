@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7202c925b369697f",
+        "id": "17e79b7129cb79b1",
         "type": "tabs",
         "children": [
           {
-            "id": "07c5dcaa7ac0e983",
+            "id": "829c62d190e1d674",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Interdependences/Codes/LoadData.cs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "LoadData.cs"
             }
           },
           {
-            "id": "6fbfa041739ef743",
+            "id": "8abab1a9f097699b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Connodos.excalidraw 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Connodos.excalidraw 1"
             }
           }
         ],
@@ -64,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IAnimation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StartEnvironment.cs.md",
+                "file": "Excalidraw/Drawing 2026-04-01 15.20.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de StartEnvironment.cs"
+              "title": "Enlaces entrantes de Drawing 2026-04-01 15.20.00.excalidraw"
             }
           },
           {
@@ -175,13 +177,43 @@
               "icon": "lucide-list",
               "title": "Esquema de StartEnvironment.cs"
             }
+          },
+          {
+            "id": "a0e52f559d628b1c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "2779fbc380e782a4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "978d1d52204bb4f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,36 +223,44 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fbfa041739ef743",
+  "active": "c71a7abf071ebd54",
   "lastOpenFiles": [
-    "UnityAnimationEngine.cs.md",
-    "Interdependences/Codes/tts.cs.md",
-    "Interdependences/Codes/UdpClient.cs.md",
-    "Interdependences/Codes/UnityAnimationEngine.cs.md",
-    "Interdependences/Codes/TorsoEngine.cs.md",
-    "Interdependences/Codes/StartEnvironment.cs.md",
-    "Interdependences/Codes/ReactiveBehavior.cs.md",
-    "Interdependences/Codes/GestureEditor.cs.md",
-    "Interdependences/Codes/HandShapeEditor.cs.md",
-    "Interdependences/Codes/GestureEngine.cs.md",
-    "Interdependences/Codes/FaceEngine.cs.md",
+    "Excalidraw/Connodos.excalidraw 1.md",
+    "Excalidraw/Drawing 2026-04-01 15.20.00.excalidraw.md",
     "Interdependences/Codes/bml_scheduler_behavior.cs.md",
-    "Interdependences/Codes/cerevoice_eng.cs.md",
-    "Interdependences/Codes/Character.cs.md",
-    "Interdependences/Codes/BML.cs.md",
-    "Interdependences/Interdependences Index.md",
+    "Interdependences/Codes/LoadData.cs.md",
+    "Interdependences/Jijomermaid/Sin título.md",
+    "Interdependences/Codes/synchro_solver.cs.md",
+    "Notes Projet.md",
     "Interdependences/Template analyse.md",
+    "Interdependences/Interdependences Index.md",
+    "Interdependences/Codes/ReactiveBehavior.cs.md",
+    "Interdependences/Codes/BML.cs.md",
+    "Interdependences/Codes/TorsoEngine.cs.md",
+    "Interdependences/Codes/UnityAnimationEngine.cs.md",
+    "Interdependences/Codes/tts.cs.md",
+    "Interdependences/Codes/Character.cs.md",
+    "Interdependences/Codes/IAnimationEngine.cs.md",
+    "Interdependences/Codes/UdpClient.cs.md",
+    "Excalidraw",
+    "Interdependences/Codes/FaceEngine.cs.md",
+    "Interdependences/Jijomermaid",
+    "Interdependences/Codes/HandShapeEditor.cs.md",
+    "Interdependences/Codes/StartEnvironment.cs.md",
+    "Interdependences/Codes/GestureEngine.cs.md",
+    "Interdependences/Codes/GestureEditor.cs.md",
+    "Interdependences/Codes/cerevoice_eng.cs.md",
+    "Sin título.base",
+    "UnityAnimationEngine.cs.md",
     "Interdependences/Codes",
     "Interdependences",
     "StartEnvironment.cs.md",
-    "Index.md",
-    "Character.cs.md",
-    "cerevoice_eng.cs.md",
-    "bml_scheduler_behavior.cs.md",
-    "ReactiveBehavior.cs.md",
-    "Reactive.md"
+    "Index.md"
   ]
 }
